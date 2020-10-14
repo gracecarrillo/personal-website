@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Graciela Carrillo
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,33 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Data Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Candidates.ai
+  url: "http://candidates.ai/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Logistics Engineer turned Data Scientist who wants to make a direct and tangible positive impact
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
+- Data Science for Social Good
+- Computational Linguistics & NLP
 - Information Retrieval
+- Transport Data Science
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Urban Studies
+    institution: University of Glasgow
+    description: 3 years of transport research before exiting the programme
+  - course: MSc in Public and Urban Policy
+    institution: University of Glasgow
+    year awarded: 2014
+  - course: BEng in Logistics & Industrial Engineering
+    institution: Autonomous University of Yucatan, Mexico
+    year awarded: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +45,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'  # For a direct email link, use "mailto:iil.gracielacarrillo@gmail.com".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/gracecarrilloc
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/gracecarrillo
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -72,7 +70,10 @@ user_groups:
 - Researchers
 - Visitors
 ---
+Logistics engineer turned data scientist who wants to make a direct and tangible positive impact. I've been working with data for 5+ years, since working as a Programmes' Liaison at an urban development government agency where I learned the power of storytelling with stats. I teach Advanced Statistics, Python & HTML programming, Python & R for Data Science, engineering and maths whistle working on machine learning and deep learning projects. I'm a Co-Founder & COO of an early venture start-up that wants to see investors’ money used with maximum efficiency and prudence. I'm also consulting as a Data Scientist at a stealth mode New York based start-up where I've worked on highly customised data scraping, data extraction with NLP & predictive modelling.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+✅ 5+ years of Data Analysis experience
+✅ 3 years PhD research experience with R
+✅ M.Sc. Urban & Public Policy + quantitative methods with STATA
+✅ End to end ML modeling, advanced statistics, NLP.
+✅Python, R, SQL, STATA, Keras, PyTorch, Git, AWS
