@@ -67,9 +67,9 @@ highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+#user_groups:
+#- Researchers
+#- Visitors
 ---
 ✅ I'm a Logistics Engineer turned Data Scientist with 5+ years of Data Analysis experience. I've been doing data analysis since working as a Programmes' Liaison at an urban development government agency where I learned the power of storytelling with stats. 
 ✅ I did 3 years of PhD research with R and I hold an M.Sc. in Urban & Public Policy, where I used quantitative research methods with STATA. I teach Advanced Statistics, Python & HTML programming, Python & R for Data Science, engineering and maths at the [University of Glasgow's Glasgow International College](https://www.kaplanpathways.com/colleges/glasgow-international-college/). 
@@ -77,4 +77,4 @@ user_groups:
 ✅ I do LiveProjects implementations & reviews of end-to-end Machine Learning & Deep Learning Projects with [Manning Publications](https://liveproject.manning.com.). 
 ✅ I'm a Co-founder & CDS at an early venture FinTech start-up based in Amsterdam. We are using the latest in machine learning and deep learning technologies to create our proof of concept for a customer-facing AI solution to bias in the active asset management industry.
 
-👉🏻 I'd love to help with your project, [let's chat.](https://calendly.com/gracecarrillo/30-minute-meeting)
+👉🏻 I'd love to help with your project. [Let's chat 💬.](https://calendly.com/gracecarrillo/30-minute-meeting)
