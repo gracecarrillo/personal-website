@@ -17,14 +17,17 @@ organizations:
 - name: Candidates.ai
   url: "http://candidates.ai/"
 
+- name: University of Glasgow - Glasgow International College
+  url: "https://www.kaplanpathways.com/colleges/glasgow-international-college/"
+  
 # Short bio (displayed in user profile at end of posts)
-bio: Logistics Engineer turned Data Scientist who wants to make a direct and tangible positive impact
+bio: Data Scientist | Mexican Engineer in Scotland | MSc in Urban Policy | Transport geek
 
 interests:
-- Data Science for Social Good
-- Computational Linguistics & NLP
-- Information Retrieval
-- Transport Data Science
+- Data Science for Social Good projects
+- Natural Language Processing for data extraction, tagging & summarisation
+- Advanced Web Information Retrieval
+- Transportation Data Science & Policy
 
 education:
   courses:
@@ -70,10 +73,24 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Logistics engineer turned data scientist who wants to make a direct and tangible positive impact. I've been working with data for 5+ years, since working as a Programmes' Liaison at an urban development government agency where I learned the power of storytelling with stats. I teach Advanced Statistics, Python & HTML programming, Python & R for Data Science, engineering and maths whistle working on machine learning and deep learning projects. I'm a Co-Founder & COO of an early venture start-up that wants to see investors’ money used with maximum efficiency and prudence. I'm also consulting as a Data Scientist at a stealth mode New York based start-up where I've worked on highly customised data scraping, data extraction with NLP & predictive modelling.
+Logistics Engineer turned Data Scientist. I've been working with data for 5+ years, since working as a Programmes' Liaison at an urban development government agency where I learned the power of storytelling with stats. 
+
+I teach Advanced Statistics, Python & HTML programming, Python & R for Data Science, engineering and maths whistle working on machine learning and deep learning projects. 
+
+I'm a Data Science Consultant at a stealth mode New York based start-up where I've worked on highly customised data scraping, data extraction with NLP & predictive modelling. 
+
+I do LiveProjects implementations & reviews of end-to-end Machine Learning & Deep Learning Projects with [Manning Publications](https://liveproject.manning.com.). 
+
+I'm a Co-founder at an early venture FinTech start-up based in Amsterdam. 
+
+I'd love to help with your project, [let's chat.](https://calendly.com/gracecarrillo/30-minute-meeting)
 
 ✅ 5+ years of Data Analysis experience
+
 ✅ 3 years PhD research experience with R
+
 ✅ M.Sc. Urban & Public Policy + quantitative methods with STATA
+
 ✅ End to end ML modeling, advanced statistics, NLP.
+
 ✅Python, R, SQL, STATA, Keras, PyTorch, Git, AWS
