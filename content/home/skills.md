@@ -21,7 +21,7 @@ subtitle = ""
   name = "Statistical Modelling"
   
 [[feature]]
-  icon = "fa-python"
+  icon = "python"
   icon_pack = "fab"
   name = "Python"
   
@@ -31,22 +31,22 @@ subtitle = ""
   name = "R"
   
 [[feature]]
-  icon = "fa-robot"
+  icon = "robot"
   icon_pack = "fas"
   name = "Machine Learning"
 
 [[feature]]
-  icon = "fa-language"
+  icon = "language"
   icon_pack = "fas"
   name = "NLP"
   
 [[feature]]
-  icon = "fa-code-branch"
+  icon = "code-branch"
   icon_pack = "fas"
   name = "Version Control"
   
  [[feature]]
-  icon = "fa-aws"
+  icon = "aws"
   icon_pack = "fab"
   name = "EC2, S3"
 
