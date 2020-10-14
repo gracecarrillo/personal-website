@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Remote, Headquarters in NYC, USA"
   date_start = "2020-06-01"
   date_end = ""
-  description = "Stealth mode start-up for high-level candidate recruitment."
+  description = """Stealth mode start-up for high-level candidate recruitment."""
   Responsibilities include:
   
   * Enable and support an environment that promotes and applies data science with a focus on impact and value.
@@ -45,7 +45,7 @@ date_format = "Jan 2006"
   location = "Remote, Headquarters in Amsterdam, Netherlands."
   date_start = "2020-10-01"
   date_end = ""
-  description = "Early venture start-up that wants to see investors’ money used with maximum efficiency."
+  description = """Early venture start-up that wants to see investors’ money used with maximum efficiency."""
   
    Responsibilities include:
   
@@ -62,7 +62,7 @@ date_format = "Jan 2006"
   location = "Remote"
   date_start = "2020"
   date_end = ""
-  description = "Scenario-based projects in Data Science and Software Development."
+  description = """Scenario-based projects in Data Science and Software Development."""
   Responsibilities include:
   
   * Build a reference implementation of the liveProject by following the author's project instructions.
@@ -77,7 +77,7 @@ date_format = "Jan 2006"
   location = "Remote, Headquarters in Merida, Mexico."
   date_start = "2019"
   date_end = ""
-  description = "Collaboration on urban policy research and teaching agenda."
+  description = """Collaboration on urban policy research and teaching agenda."""
   """
   
   [[experience]]
@@ -87,7 +87,7 @@ date_format = "Jan 2006"
   location = "Glasgow, Scotland"
   date_start = "2018"
   date_end = ""
-  description = "Teaching pre-masters and foundation-year undergraduates."
+  description = """Teaching pre-masters and foundation-year undergraduates."""
   Responsibilities include:
  
   * Advanced Statistics for Science and Engineering
@@ -106,7 +106,7 @@ date_format = "Jan 2006"
   location = "Glasgow, Scotland"
   date_start = "2016"
   date_end = "2018"
-  description = "Delivered seminars for postgraduate and undergraduate students."
+  description = """Delivered seminars for postgraduate and undergraduate students."""
   Responsibilities included:
  
   * Quantitative Research Methods 1 and 2 for undergraduate students. (R-programming)
