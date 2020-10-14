@@ -14,23 +14,41 @@ subtitle = ""
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
+ 
+[[feature]]
+  icon = "chart-line"
+  icon_pack = "fas"
+  name = "Statistical Modelling"
+  
+[[feature]]
+  icon = "fa-python"
+  icon_pack = "fab"
+  name = "Python"
+  
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "90%"
   
 [[feature]]
-  icon = "chart-line"
+  icon = "fa-robot"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "Machine Learning"
+
+[[feature]]
+  icon = "fa-language"
+  icon_pack = "fas"
+  name = "NLP"
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "fa-code-branch"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Version Control"
+  
+ [[feature]]
+  icon = "fa-aws"
+  icon_pack = "fab"
+  name = "EC2, S3"
 
 # Uncomment to use emoji icons.
 # [[feature]]
