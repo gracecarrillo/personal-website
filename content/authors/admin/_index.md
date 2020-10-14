@@ -16,9 +16,6 @@ role: Data Scientist
 organizations:
 - name: Candidates.ai
   url: "http://candidates.ai/"
-
-- name: University of Glasgow - Glasgow International College
-  url: "https://www.kaplanpathways.com/colleges/glasgow-international-college/"
   
 # Short bio (displayed in user profile at end of posts)
 bio: Data Scientist | Mexican Engineer in Scotland | MSc in Urban Policy | Transport geek
@@ -31,9 +28,6 @@ interests:
 
 education:
   courses:
-  - course: PhD in Urban Studies
-    institution: University of Glasgow
-    description: 3 years of transport research before exiting the programme
   - course: MSc in Public and Urban Policy
     institution: University of Glasgow
     year awarded: 2014
@@ -55,6 +49,10 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/gracecarrillo
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/gcarrilloc/
+  
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -73,24 +71,14 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Logistics Engineer turned Data Scientist. I've been working with data for 5+ years, since working as a Programmes' Liaison at an urban development government agency where I learned the power of storytelling with stats. 
+✅ I'm a Logistics Engineer turned Data Scientist with 5+ years of Data Analysis experience. I've been doing data analysis since working as a Programmes' Liaison at an urban development government agency where I learned the power of storytelling with stats. 
 
-I teach Advanced Statistics, Python & HTML programming, Python & R for Data Science, engineering and maths whistle working on machine learning and deep learning projects. 
+✅ I did 3 years of PhD research with R and I hold an M.Sc. in Urban & Public Policy, where I used quantitative research methods with STATA. I teach Advanced Statistics, Python & HTML programming, Python & R for Data Science, engineering and maths at the [University of Glasgow's Glasgow International College](https://www.kaplanpathways.com/colleges/glasgow-international-college/). 
 
-I'm a Data Science Consultant at a stealth mode New York based start-up where I've worked on highly customised data scraping, data extraction with NLP & predictive modelling. 
+✅ I'm a Data Science Consultant at a stealth mode New York based start-up where I've worked on end to end machine learning and deep learning projects using highly customised data scraping, NLP cleaning pipelines, feature engineering & predictive modelling. My tech stack includes Python, R, SQL, STATA, Keras, PyTorch, Git, AWS and more.
 
-I do LiveProjects implementations & reviews of end-to-end Machine Learning & Deep Learning Projects with [Manning Publications](https://liveproject.manning.com.). 
+✅ I do LiveProjects implementations & reviews of end-to-end Machine Learning & Deep Learning Projects with [Manning Publications](https://liveproject.manning.com.). 
 
-I'm a Co-founder at an early venture FinTech start-up based in Amsterdam. 
+✅ I'm a Co-founder & Principal Data Scientist at an early venture FinTech start-up based in Amsterdam. 
 
-I'd love to help with your project, [let's chat.](https://calendly.com/gracecarrillo/30-minute-meeting)
-
-✅ 5+ years of Data Analysis experience
-
-✅ 3 years PhD research experience with R
-
-✅ M.Sc. Urban & Public Policy + quantitative methods with STATA
-
-✅ End to end ML modeling, advanced statistics, NLP.
-
-✅Python, R, SQL, STATA, Keras, PyTorch, Git, AWS
+👉🏻 I'd love to help with your project, [let's chat.](https://calendly.com/gracecarrillo/30-minute-meeting)
