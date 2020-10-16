@@ -45,7 +45,7 @@ date_format = "Jan 2006"
   url = "https://www.coursera.org/account/accomplishments/specialization/certificate/QWDCRB9GLLYL"
   certificate_url = "https://www.edx.org"
   date_start = ""
-  date_end = "Oct 2019"
+  date_end = "Sep 2019"
   description = ""
  
 
