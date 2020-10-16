@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = "https://coursera.org/share/b697d6f0afb905c46621570625441127"
   date_start = ""
-  date_end = "2020"
+  date_end = "Sep 2020"
   description = ""
   
 [[item]]
@@ -35,7 +35,7 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = "https://www.youracclaim.com/badges/4e80b2e6-196c-41c5-a9b6-78afd3e0fea5/linked_in_profile"
   date_start = ""
-  date_end = "2020"
+  date_end = "Feb 2020"
   description = ""
 
 [[item]]
@@ -45,7 +45,7 @@ date_format = "Jan 2006"
   url = "https://www.coursera.org/account/accomplishments/specialization/certificate/QWDCRB9GLLYL"
   certificate_url = "https://www.edx.org"
   date_start = ""
-  date_end = "2019"
+  date_end = "Oct 2019"
   description = ""
  
 
