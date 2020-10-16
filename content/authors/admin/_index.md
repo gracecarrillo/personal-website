@@ -15,7 +15,7 @@ role: Data Scientist
 # Organizations/Affiliations
 organizations:
 - name: Candidates.ai
-  url: "http://candidates.ai/"
+  url: ""
   
 # Short bio (displayed in user profile at end of posts)
 bio: Data Scientist | Mexican Engineer in Scotland | MSc in Urban Policy | Transport geek
@@ -75,9 +75,9 @@ highlight_name: false
 
 🎓 I hold an M.Sc. in Urban & Public Policy, where I used quantitative research methods with STATA. I also did 3 years of transportation research at PhD level with R.
 
-👩‍🏫I teach Advanced Statistics, Python & HTML programming, Python & R for Data Science, engineering and maths at the [University of Glasgow's Glasgow International College](https://www.kaplanpathways.com/colleges/glasgow-international-college/). 
+👩‍🏫 I teach Advanced Statistics, Python & HTML programming, Python & R for Data Science, engineering and maths at the [University of Glasgow's Glasgow International College](https://www.kaplanpathways.com/colleges/glasgow-international-college/). 
 
-💻 I'm a Data Science Consultant at [Candidates.ai](http://candidates.ai/) stealth mode New York based start-up where I've worked on end to end machine learning and deep learning projects using highly customised data scraping, NLP cleaning pipelines, feature engineering & predictive modelling. My tech stack includes Python, R, SQL, STATA, Keras, PyTorch, Git, AWS and more.
+💻 I'm a Data Science Consultant at [Candidates.ai](http://candidates.ai/) stealth mode New York based start-up where I've worked on end-to-end machine learning and deep learning projects using highly customised data scraping scripts, NLP cleaning pipelines, feature engineering & predictive modelling.
 
 📚 I do LiveProjects implementations & reviews of end-to-end Machine Learning & Deep Learning Projects with [Manning Publications](https://liveproject.manning.com.). 
 
