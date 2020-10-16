@@ -86,4 +86,4 @@ highlight_name: false
 ➡️ Sometimes I blog! Check out my medium page [here](https://medium.com/@gracecarrilloc).
 
 
-💬🏻 I'd love to help with your project. [Let's chat.](https://calendly.com/gracecarrillo/30-minute-meeting)
+💬 I'd love to know about your project. [Let's chat.](https://calendly.com/gracecarrillo/30-minute-meeting)
