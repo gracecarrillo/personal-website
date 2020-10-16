@@ -10,7 +10,7 @@ subtitle = ""
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "Jan 2006"
+date_format = "January 2, 2006"
 
 # Accomplishments.
 #   Add/remove as many `[[item]]` blocks below as you like.
@@ -24,8 +24,8 @@ date_format = "Jan 2006"
   title = "Natural Language Processing Specialization"
   url = ""
   certificate_url = "https://coursera.org/share/b697d6f0afb905c46621570625441127"
-  date_start = "Jun 2020"
-  date_end = "Sep 2020"
+  date_start = ""
+  date_end = "September 1, 2020"
   description = ""
   
 [[item]]
@@ -34,8 +34,8 @@ date_format = "Jan 2006"
   title = "Advanced Data Science Specialist"
   url = ""
   certificate_url = "https://www.youracclaim.com/badges/4e80b2e6-196c-41c5-a9b6-78afd3e0fea5/linked_in_profile"
-  date_start = "Dec 2019"
-  date_end = "Feb 2020"
+  date_start = ""
+  date_end = "February 1, 2020"
   description = ""
 
 [[item]]
@@ -44,8 +44,8 @@ date_format = "Jan 2006"
   title = " IBM Data Science Professional Certificate"
   url = "https://www.coursera.org/account/accomplishments/specialization/certificate/QWDCRB9GLLYL"
   certificate_url = "https://www.edx.org"
-  date_start = "Jun 2019"
-  date_end = "Sep 2019"
+  date_start = ""
+  date_end = "September 1, 2019"
   description = ""
  
 
