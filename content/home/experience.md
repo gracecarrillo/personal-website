@@ -25,7 +25,9 @@ date_format = "Jan 2006"
   location = "Remote, Headquarters in NYC, USA"
   date_start = "Jun 2020"
   date_end = ""
-  description = "Stealth mode start-up for high-level candidate recruitment."
+  description = """
+  
+  Stealth mode start-up for high-level candidate recruitment.
   
   Responsibilities include:
   
@@ -38,6 +40,7 @@ date_format = "Jan 2006"
   * Confidently present complex analytical results in a clear and simple manners.
   * Recommend relevant research, best practices, and their application to the Data Science Manager & CEO.
   * Selecting features, building and optimising our product using machine learning techniques.
+  """
 
 [[experience]]
   title = "Co-founder & Chief Data Scientist"
@@ -46,7 +49,9 @@ date_format = "Jan 2006"
   location = "Remote, Headquarters in Amsterdam, Netherlands."
   date_start = "Oct 2020"
   date_end = ""
-  description = "Early venture start-up that wants to see investors’ money used with maximum efficiency."
+  description = """
+  
+  Early venture start-up that wants to see investors’ money used with maximum efficiency."
   
    Responsibilities include:
   
@@ -55,6 +60,7 @@ date_format = "Jan 2006"
   * Define best practices for data science processes, from problem definition to options analysis to final presentation.
   * Be part of the strategic analysis to uncover business opportunities and inform our company's direction.
   * Build, scale, and lead a high-impact data science team.
+  """
 
 [[experience]]
   title = "Expert Implementer"
@@ -63,13 +69,16 @@ date_format = "Jan 2006"
   location = "Remote"
   date_start = "Sep 2020"
   date_end = ""
-  description = "Scenario-based projects in Data Science and Software Development."
+  description = """
+  
+  Scenario-based projects in Data Science and Software Development.
   
   Responsibilities include:
   
   * Build a reference implementation of the liveProject by following the author's project instructions.
   * Summarise progress and issues, provide feedback on code and implementation issues that will be used for FAQs and resource materials.
   * Propose optimisation to the author's project, including missing information, gaps in the instructions or errors.
+  """
   
 [[experience]]
   title = "Associate Researcher/Lecturer"
@@ -78,7 +87,7 @@ date_format = "Jan 2006"
   location = "Remote, Headquarters in Merida, Mexico."
   date_start = "Jan 2019"
   date_end = ""
-  description = "Collaboration on urban policy research and teaching agenda."
+  description = """Collaboration on urban policy research and teaching agenda."""
   
   [[experience]]
   title = "Tutor"
@@ -87,7 +96,9 @@ date_format = "Jan 2006"
   location = "Glasgow, Scotland"
   date_start = "Sep 2018"
   date_end = ""
-  description = "Teaching pre-masters and foundation-year undergraduates."
+  description = """
+  
+  Teaching pre-masters and foundation-year undergraduates.
   
   Responsibilities include:
  
@@ -98,6 +109,7 @@ date_format = "Jan 2006"
   * Engineering
   * Applied Mathematics
   * Economics
+  """
  
  [[experience]]
   title = "Graduate Teaching Assistant"
@@ -106,12 +118,15 @@ date_format = "Jan 2006"
   location = "Glasgow, Scotland"
   date_start = "Sep 2016"
   date_end = "Sep 2018"
-  description = "Delivered seminars for postgraduate and undergraduate students."
+  description = """
+  
+  Delivered seminars for postgraduate and undergraduate students.
   
   Responsibilities included:
  
   * Quantitative Research Methods 1 and 2 for undergraduate students. (R-programming)
   * Research Design for postgraduate students. (R-programming)
   * Quantitative Data Analysis for postgraduate students (SPSS).
+  """
  
 +++
