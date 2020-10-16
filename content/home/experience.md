@@ -22,9 +22,10 @@ date_format = "Jan 2006"
   company = "Candidates.ai"
   company_url = "http://candidates.ai/"
   location = "Remote, Headquarters in NYC, USA"
-  date_start = "2020-06-01"
+  date_start = "Jun 2020"
   date_end = ""
   description = """Stealth mode start-up for high-level candidate recruitment."""
+  
   Responsibilities include:
   
   * Enable and support an environment that promotes and applies data science with a focus on impact and value.
@@ -43,7 +44,7 @@ date_format = "Jan 2006"
   company = "Unbiased & Intuitive"
   company_url = ""
   location = "Remote, Headquarters in Amsterdam, Netherlands."
-  date_start = "2020-10-01"
+  date_start = "Oct 2020"
   date_end = ""
   description = """Early venture start-up that wants to see investors’ money used with maximum efficiency."""
   
@@ -60,34 +61,34 @@ date_format = "Jan 2006"
   company = "Manning Publications Co."
   company_url = "https://liveproject.manning.com"
   location = "Remote"
-  date_start = "2020"
+  date_start = "Sep 2020"
   date_end = ""
   description = """Scenario-based projects in Data Science and Software Development."""
+  
   Responsibilities include:
   
   * Build a reference implementation of the liveProject by following the author's project instructions.
   * Summarise progress and issues, provide feedback on code and implementation issues that will be used for FAQs and resource materials.
   * Propose optimisation to the author's project, including missing information, gaps in the instructions or errors.
-  """
   
 [[experience]]
   title = "Associate Researcher/Lecturer"
   company = "Centre for Public Policy Analysis, Research and Education (CIDAPP)"
   company_url = "https://cidapp.mx/nosotros/#link-especialistas"
   location = "Remote, Headquarters in Merida, Mexico."
-  date_start = "2019"
+  date_start = "Jan 2019"
   date_end = ""
   description = """Collaboration on urban policy research and teaching agenda."""
-  """
   
   [[experience]]
   title = "Tutor"
   company = "University of Glasgow's Glasgow International College"
   company_url = "https://www.kaplanpathways.com/colleges/glasgow-international-college/"
   location = "Glasgow, Scotland"
-  date_start = "2018"
+  date_start = "Sep 2018"
   date_end = ""
   description = """Teaching pre-masters and foundation-year undergraduates."""
+  
   Responsibilities include:
  
   * Advanced Statistics for Science and Engineering
@@ -104,9 +105,10 @@ date_format = "Jan 2006"
   company = "University of Glasgow - School of Social and Political Sciences"
   company_url = "https://www.gla.ac.uk/schools/socialpolitical/"
   location = "Glasgow, Scotland"
-  date_start = "2016"
-  date_end = "2018"
+  date_start = "Sep 2016"
+  date_end = "Sep 2018"
   description = """Delivered seminars for postgraduate and undergraduate students."""
+  
   Responsibilities included:
  
   * Quantitative Research Methods 1 and 2 for undergraduate students. (R-programming)
