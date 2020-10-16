@@ -52,6 +52,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/gcarrilloc/
+- icon: medium
+  icon_pack: fab
+  link: https://medium.com/@gracecarrilloc
   
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -81,9 +84,7 @@ highlight_name: false
 
 📚 I do LiveProjects implementations & reviews of end-to-end Machine Learning & Deep Learning Projects with [Manning Publications](https://liveproject.manning.com.). 
 
-💲 I'm a Co-founder & CDS at an early venture FinTech start-up based in Amsterdam. We are using the latest in machine learning and deep learning technologies to create our proof of concept for a customer-facing AI solution to bias in the active asset management industry.
-
-➡️ Sometimes I blog! Check out my medium page [here](https://medium.com/@gracecarrilloc).
+💰 I'm a Co-founder & COO at an early venture FinTech start-up based in Amsterdam. We are using the latest in machine learning and deep learning technologies to create our proof of concept for a customer-facing AI solution to bias in the active asset management industry.
 
 
 💬 I'd love to know about your project. [Let's chat.](https://calendly.com/gracecarrillo/30-minute-meeting)
