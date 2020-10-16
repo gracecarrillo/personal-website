@@ -80,7 +80,7 @@ highlight_name: false
 
 👩‍🏫 I teach Advanced Statistics, Python & HTML programming, Python & R for Data Science, engineering and maths at the [University of Glasgow's Glasgow International College](https://www.kaplanpathways.com/colleges/glasgow-international-college/). 
 
-💻 I'm a Data Science Consultant at [Candidates.ai](http://candidates.ai/) stealth mode New York based start-up where I've worked on end-to-end machine learning and deep learning projects using highly customised data scraping scripts, NLP cleaning pipelines, feature engineering & predictive modelling.
+💻 I'm a Data Science Consultant at [Candidates.ai](http://candidates.ai/), a stealth mode New York based start-up where I've worked on end-to-end machine learning and deep learning projects using highly customised data scraping scripts, NLP cleaning pipelines, feature engineering & predictive modelling.
 
 📚 I do LiveProjects implementations & reviews of end-to-end Machine Learning & Deep Learning Projects with [Manning Publications](https://liveproject.manning.com.). 
 
