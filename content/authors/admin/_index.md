@@ -71,14 +71,19 @@ highlight_name: false
 #- Researchers
 #- Visitors
 ---
-✅ I'm a Logistics Engineer turned Data Scientist with 5+ years of Data Analysis experience. I've been doing data analysis since working as a Programmes' Liaison at an urban development government agency where I learned the power of storytelling with stats. 
+📊 I'm a Logistics Engineer turned Data Scientist with 5+ years of Data Analysis experience. I've been doing data analysis since working as a Programmes' Liaison at an urban development government agency where I learned the power of storytelling with stats. 
 
-✅ I did 3 years of PhD research with R and I hold an M.Sc. in Urban & Public Policy, where I used quantitative research methods with STATA. I teach Advanced Statistics, Python & HTML programming, Python & R for Data Science, engineering and maths at the [University of Glasgow's Glasgow International College](https://www.kaplanpathways.com/colleges/glasgow-international-college/). 
+🎓 I hold an M.Sc. in Urban & Public Policy, where I used quantitative research methods with STATA. I also did 3 years of transportation research at PhD level with R.
 
-✅ I'm a Data Science Consultant at a stealth mode New York based start-up where I've worked on end to end machine learning and deep learning projects using highly customised data scraping, NLP cleaning pipelines, feature engineering & predictive modelling. My tech stack includes Python, R, SQL, STATA, Keras, PyTorch, Git, AWS and more.
+👩‍🏫I teach Advanced Statistics, Python & HTML programming, Python & R for Data Science, engineering and maths at the [University of Glasgow's Glasgow International College](https://www.kaplanpathways.com/colleges/glasgow-international-college/). 
 
-✅ I do LiveProjects implementations & reviews of end-to-end Machine Learning & Deep Learning Projects with [Manning Publications](https://liveproject.manning.com.). 
+💻 I'm a Data Science Consultant at [Candidates.ai](http://candidates.ai/) stealth mode New York based start-up where I've worked on end to end machine learning and deep learning projects using highly customised data scraping, NLP cleaning pipelines, feature engineering & predictive modelling. My tech stack includes Python, R, SQL, STATA, Keras, PyTorch, Git, AWS and more.
 
-✅ I'm a Co-founder & CDS at an early venture FinTech start-up based in Amsterdam. We are using the latest in machine learning and deep learning technologies to create our proof of concept for a customer-facing AI solution to bias in the active asset management industry.
+📚 I do LiveProjects implementations & reviews of end-to-end Machine Learning & Deep Learning Projects with [Manning Publications](https://liveproject.manning.com.). 
+
+💲 I'm a Co-founder & CDS at an early venture FinTech start-up based in Amsterdam. We are using the latest in machine learning and deep learning technologies to create our proof of concept for a customer-facing AI solution to bias in the active asset management industry.
+
+➡️ Sometimes I blog! Check out my medium page [here](https://medium.com/@gracecarrilloc).
+
 
 👉🏻 I'd love to help with your project. [Let's chat 💬.](https://calendly.com/gracecarrillo/30-minute-meeting)
