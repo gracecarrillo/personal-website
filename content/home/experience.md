@@ -17,6 +17,7 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
 [[experience]]
   title = "Data Scientist"
   company = "Candidates.ai"
@@ -24,7 +25,7 @@ date_format = "Jan 2006"
   location = "Remote, Headquarters in NYC, USA"
   date_start = "Jun 2020"
   date_end = ""
-  description = """Stealth mode start-up for high-level candidate recruitment."""
+  description = "Stealth mode start-up for high-level candidate recruitment."
   
   Responsibilities include:
   
@@ -37,7 +38,6 @@ date_format = "Jan 2006"
   * Confidently present complex analytical results in a clear and simple manners.
   * Recommend relevant research, best practices, and their application to the Data Science Manager & CEO.
   * Selecting features, building and optimising our product using machine learning techniques.
-  """
 
 [[experience]]
   title = "Co-founder & Chief Data Scientist"
@@ -46,7 +46,7 @@ date_format = "Jan 2006"
   location = "Remote, Headquarters in Amsterdam, Netherlands."
   date_start = "Oct 2020"
   date_end = ""
-  description = """Early venture start-up that wants to see investors’ money used with maximum efficiency."""
+  description = "Early venture start-up that wants to see investors’ money used with maximum efficiency."
   
    Responsibilities include:
   
@@ -63,7 +63,7 @@ date_format = "Jan 2006"
   location = "Remote"
   date_start = "Sep 2020"
   date_end = ""
-  description = """Scenario-based projects in Data Science and Software Development."""
+  description = "Scenario-based projects in Data Science and Software Development."
   
   Responsibilities include:
   
@@ -78,7 +78,7 @@ date_format = "Jan 2006"
   location = "Remote, Headquarters in Merida, Mexico."
   date_start = "Jan 2019"
   date_end = ""
-  description = """Collaboration on urban policy research and teaching agenda."""
+  description = "Collaboration on urban policy research and teaching agenda."
   
   [[experience]]
   title = "Tutor"
@@ -87,7 +87,7 @@ date_format = "Jan 2006"
   location = "Glasgow, Scotland"
   date_start = "Sep 2018"
   date_end = ""
-  description = """Teaching pre-masters and foundation-year undergraduates."""
+  description = "Teaching pre-masters and foundation-year undergraduates."
   
   Responsibilities include:
  
@@ -99,7 +99,6 @@ date_format = "Jan 2006"
   * Applied Mathematics
   * Economics
  
-   
  [[experience]]
   title = "Graduate Teaching Assistant"
   company = "University of Glasgow - School of Social and Political Sciences"
@@ -107,7 +106,7 @@ date_format = "Jan 2006"
   location = "Glasgow, Scotland"
   date_start = "Sep 2016"
   date_end = "Sep 2018"
-  description = """Delivered seminars for postgraduate and undergraduate students."""
+  description = "Delivered seminars for postgraduate and undergraduate students."
   
   Responsibilities included:
  
