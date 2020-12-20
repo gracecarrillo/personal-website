@@ -74,7 +74,7 @@ highlight_name: false
 #- Researchers
 #- Visitors
 ---
-💰 I'm the technical co-founder & COO at [Unbiased & Intuitve](https://www.unbiased-intuitive.com/), an AI solution revolutionising equity investment research. Active asset managers use research reports to make their investment decisions. They rely on research providers at investment banks, research shops and other players. But their process has major drawbacks. Our technology solves them all.
+💰 I'm the technical co-founder & COO at [U & I](https://www.unbiased-intuitive.com/), an AI solution revolutionising equity investment research. Active asset managers use research reports to make their investment decisions. They rely on research providers at investment banks, research shops and other players. But their process has major drawbacks. Our technology solves them all.
 
 📊 I'm a Logistics Engineer turned Data Scientist with 5+ years experience working with data. I've been doing data analysis since working as a Programmes' Liaison at an urban development government agency where I learned the power of storytelling with stats. 
 
