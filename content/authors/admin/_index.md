@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Data Scientist
+role: Co-founder | COO | Data Scientist
 
 # Organizations/Affiliations
 organizations:
-- name:
-  url: ""
+- name: Unbiased & Intuitive
+  url: "https://www.unbiased-intuitive.com/"
   
 # Short bio (displayed in user profile at end of posts)
 bio: Data Scientist | Mexican Engineer in Scotland | MSc in Urban Policy | Transport geek
@@ -74,17 +74,17 @@ highlight_name: false
 #- Researchers
 #- Visitors
 ---
-📊 I'm a Logistics Engineer turned Data Scientist with 5+ years of Data Analysis experience. I've been doing data analysis since working as a Programmes' Liaison at an urban development government agency where I learned the power of storytelling with stats. 
+💰 I'm the technical co-founder & COO at [Unbiased & Intuitve](https://www.unbiased-intuitive.com/), an AI solution revolutionising equity investment research. Active asset managers use research reports to make their investment decisions. They rely on research providers at investment banks, research shops and other players. But their process has major drawbacks. Our technology solves them all.
+
+📊 I'm a Logistics Engineer turned Data Scientist with 5+ years experience working with data. I've been doing data analysis since working as a Programmes' Liaison at an urban development government agency where I learned the power of storytelling with stats. 
 
 🎓 I hold an M.Sc. in Urban & Public Policy, where I used quantitative research methods with STATA. I also did 3 years of transportation research at PhD level with R.
 
-👩‍🏫 I teach Advanced Statistics, Python & HTML programming, Python & R for Data Science, engineering and maths at the [University of Glasgow's Glasgow International College](https://www.kaplanpathways.com/colleges/glasgow-international-college/). 
+👩‍🏫 I love teaching. I've taught Advanced Statistics, Python & HTML programming, Python & R for Data Science, engineering, and Machine Learning at the [University of Glasgow's Glasgow International College](https://www.kaplanpathways.com/colleges/glasgow-international-college/). 
 
-💻 I'm a Data Science Consultant at [Candidates.ai](http://candidates.ai/), a stealth mode New York based start-up where I've worked on end-to-end machine learning and deep learning projects using highly customised data scraping scripts, NLP cleaning pipelines, feature engineering & predictive modelling.
+💻 I'm a Data Science Consultant at [Candidates.ai](http://candidates.ai/), a stealth mode New York based start-up where I've worked on end-to-end machine learning and deep learning projects using highly customised web scraping scripts, NLP & ML pipelines, feature engineering & predictive modelling.
 
 📚 I do LiveProjects implementations & reviews of end-to-end Machine Learning & Deep Learning Projects with [Manning Publications](https://liveproject.manning.com.). 
 
-💰 I'm a Co-founder & COO at an early venture FinTech start-up based in Amsterdam. We are using the latest in machine learning and deep learning technologies to create our proof of concept for a customer-facing AI solution to bias in the active asset management industry.
 
-
-💬 I'd love to know about your project. [Let's chat.](https://calendly.com/gracecarrillo/30-minute-meeting)
+💬 [Let's chat.](https://calendly.com/gracecarrillo/30-minute-meeting)
